@@ -1,11 +1,15 @@
 
 # Is Your Business Doomed?
+### COMP30780 Data Science in Practice
 
+A project that performs analysis on Yelp ratings to compare business categories across several metropolitan areas. 
+* Business success/failure
+* Area competition 
+* Potential for future businesses based on category and area.
 
-An analysis of Yelp data to review business performance. 
+Results located in notebooks/final
+
 This readme details the steps needed to run all of the notebooks.
-
-
 
 ## Environments
 
